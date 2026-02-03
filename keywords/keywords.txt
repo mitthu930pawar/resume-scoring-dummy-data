@@ -1,0 +1,28 @@
+Java
+Python
+JavaScript
+TypeScript
+React
+Angular
+Node.js
+Express
+HTML
+CSS
+Tailwind
+SQL
+MySQL
+MongoDB
+REST API
+GraphQL
+Git
+GitHub
+Docker
+Kubernetes
+AWS
+Azure
+CI/CD
+Unit Testing
+Problem Solving
+Communication
+Teamwork
+Leadership
